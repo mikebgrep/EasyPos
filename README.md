@@ -7,7 +7,7 @@ You can easly install all dependencies with Maven.
 It's work on java 11 or higher version.
 
 ## Special thanks to following repositorys in github.
-1)  @anastaciocintra / escpos-coffee - library witch is the escpos printer used in the project.
+1)  anastaciocintra / escpos-coffee - library witch is the escpos printer used in the project.
 2)  knowm / XChart - library witch is used for sales charts.  
 
 ### Screenshot from main window
