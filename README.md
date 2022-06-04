@@ -12,6 +12,6 @@ It's work on java 11 or higher version.
 
 ### Screenshot from main window
 
-![alt text](https://i.ibb.co/pnR86t6/easypos.png)
+![alt text](https://i.ibb.co/17cLnTk/easypos.png)
 ### Modifications
 Anyone is welcomed to look around source code and if it has any ideas to make the pos better to feel free, fork the repo and make pull request.
