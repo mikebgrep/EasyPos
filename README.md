@@ -10,5 +10,8 @@ It's work on java 11 or higher version.
 1)  anastaciocintra / escpos-coffee - library witch is the escpos printer used in the project.
 2)  knowm / XChart - library witch is used for sales charts.  
 
+### Screenshot from main window
+
+![alt text](https://i.ibb.co/pnR86t6/easypos.png)
 ### Modifications
 Anyone is welcomed to look around source code and if it has any ideas to make the pos better to feel free, fork the repo and make pull request.
